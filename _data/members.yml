@@ -8,20 +8,20 @@
 - name: Goktug Ekinci
   role: Ph.D. Student
   topic: Adaptive Machine Learning and Authentication Systems
-  photo:    # e.g. goktug.jpg
+  photo: goktugekinci.jpeg
 
 - name: Adam Trott
   role: Ph.D. Student
   topic: Open Set Recognition for Electronic Warfare
-  photo:
+  photo: adamtrott.jpeg
 
 - name: Mayank Raj
   role: M.S. Student
   topic: Risk Modeling and Attack Chain Prediction for NIDS
-  photo:
+  photo:mayankraj.png
 
 - name: Shreyash Tiwari
   role: M.S. Student
   topic: Deep Q Networks for Open-Set Recognition
-  photo:
+  photo: shreyash-tiwari.jpeg
 
