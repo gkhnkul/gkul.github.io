@@ -7,10 +7,10 @@ description: >-
   software performance, and digital forensics.
 
 # IMPORTANT: when deploying to a project page (e.g. username.gitlab.io/lab-website),
-# set baseurl to "/lab-website". For a user/group page (username.gitlab.io),
+# set baseurl to "/lab-website". For a user/group page (username.github.io),
 # leave baseurl as "".
 baseurl: ""
-url: "https://gkul.gitlab.io"   # change to your actual GitLab Pages URL
+url: "https://gkul.github.io"   # change to your actual GitLab Pages URL
 
 # PI / contact
 pi:
@@ -39,7 +39,7 @@ exclude:
   - vendor
   - node_modules
   - README.md
-  - .gitlab-ci.yml
+  - .github-ci.yml
   - .gitignore
 
 # Disable plugins not allowed on GitLab Pages by default; keep this minimal

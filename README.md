@@ -1,7 +1,7 @@
 # Kul Lab — UMass Dartmouth
 
 Source for the Kul Lab website, built with [Jekyll](https://jekyllrb.com/) and deployed
-to [GitLab Pages](https://docs.gitlab.com/user/project/pages/).
+to [GitHub Pages](https://docs.github.com/user/project/pages/).
 
 ---
 
@@ -25,14 +25,14 @@ The site will be live at `http://127.0.0.1:4000/`. Saved file changes auto-rebui
 
 ## Deploying on GitLab Pages
 
-1. **Create a new GitLab project**, push this directory as the initial commit.
+1. **Create a new GitHub project**, push this directory as the initial commit.
 2. **Pick the right URL pattern**:
-   - For a *user* page (`gkul.gitlab.io`), name the project `gkul.gitlab.io` and leave `baseurl: ""` in `_config.yml`.
-   - For a *project* page (`gkul.gitlab.io/lab-website`), set `baseurl: "/lab-website"` in `_config.yml`.
-3. Push to `main`. The pipeline in `.gitlab-ci.yml` builds the site automatically and publishes it.
+   - For a *user* page (`gkul.github.io`), name the project `gkul.github.io ` and leave `baseurl: ""` in `_config.yml`.
+   - For a *project* page (`gkul.github.io/lab-website`), set `baseurl: "/lab-website"` in `_config.yml`.
+3. Push to `main`. The pipeline in `.github-ci.yml` builds the site automatically and publishes it.
 4. The Pages URL will appear under **Deploy → Pages** in your GitLab project.
 
-To wire up a custom domain (e.g. `lab.cis.umassd.edu`), follow [GitLab's custom-domain docs](https://docs.gitlab.com/user/project/pages/custom_domains_ssl_tls_certification/).
+To wire up a custom domain (e.g. `lab.cis.umassd.edu`), follow [GitLab's custom-domain docs](https://docs.github.com/user/project/pages/custom_domains_ssl_tls_certification/).
 
 ---
 
