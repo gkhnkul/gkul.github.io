@@ -1,0 +1,23 @@
+<li>
+  <div class="pub-authors">
+    {%- for author in include.pub.authors -%}
+      {%- if author contains "*" -%}
+        <span class="me">{{ author | replace: "*", "" }}</span>
+      {%- else -%}
+        {{ author }}
+      {%- endif -%}
+      {%- unless forloop.last -%}, {% endunless -%}
+    {%- endfor -%}.
+  </div>
+  <div class="pub-title">
+    {%- if include.pub.url and include.pub.url != "" -%}
+      <a href="{{ include.pub.url }}">{{ include.pub.title }}</a>
+    {%- else -%}
+      {{ include.pub.title }}
+    {%- endif -%}
+  </div>
+  <div class="pub-venue">
+    <span class="venue-name">{{ include.pub.venue }}</span>{% if include.pub.details and include.pub.details != "" %}, {{ include.pub.details }}{% endif %}.
+    <span class="pub-year">{{ include.pub.year }}</span>
+  </div>
+</li>
