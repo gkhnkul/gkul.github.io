@@ -11,6 +11,7 @@ description: >-
 # leave baseurl as "".
 baseurl: ""
 url: "https://gkul.github.io"   # change to your actual GitLab Pages URL
+google_analytics: G-HTXDSTEN17
 
 # PI / contact
 pi:
