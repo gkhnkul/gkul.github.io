@@ -8,6 +8,263 @@
 #   details:  vol/issue/pages/location etc.
 #   year:     publication year (string, for sorting)
 
+journal:
+  - authors: [Chidera Biringa, "Gokhan Kul*"]
+    title: "Detecting Hard-Coded Credentials in Software Repositories via LLMs"
+    venue: "ACM Digital Threats: Research and Practice"
+    details: "2025, DOI: 10.1145/3744756"
+    year: "2025"
+
+  - authors: [Priscila Silva, Gaspard Baye, Mindy Hotchkiss, "Gokhan Kul*", Nathaniel D. Bastian, Lance Fiondella]
+    title: "Regression and Time Series Mixture Approaches to Predict System Performance and Assess Resilience"
+    venue: "IEEE Transactions on Reliability"
+    details: "2024, DOI: 10.1109/TR.2024.3471409"
+    year: "2024"
+
+  - authors: [Pahalavan Rajkumar Dheivanayahi, Ryan Berry, Nicholas Costagliola, Lance Fiondella, Nathaniel D. Bastian, "Gokhan Kul*"]
+    title: "Explainability of Network Intrusion Detection using Transformers: A Packet-Level Approach"
+    venue: "IEEE Access"
+    details: "2025, DOI: 10.1109/ACCESS.2024.3525008"
+    year: "2025"
+
+  - authors: [Zakaria Faddi, Karen da Mata, Priscila Silva, Vidhyashree Nagaraju, Susmita Ghosh, "Gokhan Kul*", Lance Fiondella]
+    title: "Quantitative Assessment of Machine Learning Reliability and Resilience"
+    venue: "Risk Analysis (Wiley)"
+    details: "2024, DOI: 10.1111/risa.14666"
+    year: "2024"
+
+  - authors: [Chidera Biringa, "Gokhan Kul*"]
+    title: "PACE: A Program Analysis Framework for Continuous Performance Prediction"
+    venue: "ACM Transactions on Software Engineering and Methodology (TOSEM)"
+    details: "33(4), 2024, DOI: 10.1145/3637230"
+    year: "2024"
+
+  - authors: ["Gokhan Kul*", Shambhu Upadhyaya, Andrew Hughes]
+    title: "An Analysis of Complexity of Insider Attacks to Databases"
+    venue: "ACM Transactions on Management Information Systems (TMIS)"
+    details: "2021, DOI: 10.1145/3391231"
+    year: "2021"
+
+  - authors: [Akash Sundararaj, "Gokhan Kul*"]
+    title: "Impact Analysis of Training Data Characteristics for Phishing Email Classification"
+    venue: "Journal of Wireless Mobile Networks, Ubiquitous Computing, and Dependable Applications (JoWUA)"
+    details: "2021, DOI: 10.22667/JOWUA.2021.06.30.085"
+    year: "2021"
+
+  - authors: [Heather Craddock, Lakshmi Prasanna Konudula, "Gokhan Kul*"]
+    title: "A Survey on the Challenges of Implementing Physical Memory Pools"
+    venue: "Journal of Internet Services and Information Security (JISIS)"
+    details: "2019"
+    year: "2019"
+
+  - authors: ["Gokhan Kul*", Duc Luong, Ting Xie, Varun Chandola, Oliver Kennedy, Shambhu Upadhyaya]
+    title: "Similarity Metrics for SQL Query Clustering"
+    venue: "IEEE Transactions on Knowledge and Data Engineering (TKDE)"
+    details: "2018, DOI: 10.1109/TKDE.2018.2831214"
+    year: "2018"
+
+  - authors: ["Gokhan Kul*", Shambhu Upadhyaya]
+    title: "Towards Cyber Ontology for Insider Threats in the Financial Sector"
+    venue: "JoWUA"
+    details: "6(4): 64–85, 2015, DOI: 10.22667/JOWUA.2015.12.31.064"
+    year: "2015"
+
+  - authors: ["Gokhan Kul*", Tansel Ozyer, Bulent Tavli]
+    title: "IEEE 802.11 WLAN based Real Time Indoor Positioning: Literature Survey and Experimental Investigations"
+    venue: "Procedia Computer Science"
+    details: "34:157–164, 2014, DOI: 10.1016/j.procs.2014.07.078"
+    year: "2014"
+
+bookchapter:
+  - authors: [Lars Schmitt, "Gokhan Kul*"]
+    title: "Anti-Forensic Measures and Their Impact on Forensic Investigations"
+    venue: "Adversarial Multimedia Forensics (Springer)"
+    details: "2023, DOI: 10.1007/978-3-031-49803-9_10"
+    year: "2023"
+
+  - authors: ["Gokhan Kul*", Chidera Biringa]
+    title: "Forensics in Cyber-Physical Systems"
+    venue: "A Practical Guide to Security and Privacy in Cyber-Physical Systems (World Scientific)"
+    details: "2023, DOI: 10.1142/9789811273551_0003"
+    year: "2023"
+
+conference:
+  - authors: [Chidera Biringa, Ajmal Abbas, Vishnu Selvaraj, "Gokhan Kul*"]
+    title: "VulStyle: A Multi-Modal Pre-Training for Code Stylometry-Augmented Vulnerability Detection"
+    venue: "IEEE/IFIP DSN"
+    details: "2026, to appear"
+    year: "2026"
+
+  - authors: [Shreyash Tiwari, Nathaniel D. Bastian, "Gokhan Kul*"]
+    title: "DQN-IDS: A Deep Reinforcement Learning Approach for Open Set-Enabled Intrusion Detection"
+    venue: "NDSS SDIoTSec Workshop"
+    details: "2026, to appear"
+    year: "2026"
+
+  - authors: [Adam Trott, Henry Thompson, "Gokhan Kul*"]
+    title: "Model Evaluation for Radio-Frequency Signal Modulation Classifiers in the Existence of Novel Samples"
+    venue: "HICSS"
+    details: "2026, Identifier: https://hdl.handle.net/10125/112278"
+    year: "2026"
+
+  - authors: [Alexandre Broggi, Nathaniel D. Bastian, Lance Fiondella, "Gokhan Kul*"]
+    title: "Scaling Through Pruning for Resource-Aware Embedded Intrusion Detection on the Edge"
+    venue: "IEEE MILCOM"
+    details: "2025, to appear"
+    year: "2025"
+
+  - authors: [Nicholas Costagliola, Goktug Ekinci, Nathaniel D. Bastian, Lance Fiondella, "Gokhan Kul*"]
+    title: "Replay or Regret: Evaluating Continual Learning Methods for Robust Intrusion Detection"
+    venue: "IEEE MILCOM"
+    details: "2025, to appear"
+    year: "2025"
+
+  - authors: [Priscila Silva, Gaspard Baye, Nicholas Costagliola, Nathaniel D. Bastian, "Gokhan Kul*", Lance Fiondella]
+    title: "Repair-Time Trigger for Cyberattack Classifiers"
+    venue: "IEEE MILCOM"
+    details: "2025, to appear"
+    year: "2025"
+
+  - authors: [Pooja Chigurupati, Ashok Kumar Patel, "Gokhan Kul*"]
+    title: "Transfer Learning in Adversarial Attacks Across Graph Neural Networks"
+    venue: "IEEE MILCOM"
+    details: "2025, to appear"
+    year: "2025"
+
+  - authors: [Alexandre Broggi, Gaspard Baye, Priscila Silva, Nicholas Costagliola, Nathaniel Bastian, Lance Fiondella, "Gokhan Kul*"]
+    title: "varMax: Uncertainty and Novelty Management in Deep Neural Networks"
+    venue: "HICSS"
+    details: "2025, Identifier: https://hdl.handle.net/10125/109750"
+    year: "2025"
+
+  - authors: [Karen da Mata, Zakaria Faddi, Priscila Silva, Vidhyashree Nagaraju, Susmita Ghosh, "Gokhan Kul*", Lance Fiondella]
+    title: "Reliability Evaluation of CNN-enabled Systems in Adversarial Scenarios"
+    venue: "IEEE ICAA"
+    details: "2024, DOI: 10.1109/ICAA64256.2024.00020"
+    year: "2024"
+
+  - authors: [Gaspard Baye, Priscila Silva, Alexandre Broggi, Lance Fiondella, Nathaniel D. Bastian, "Gokhan Kul*"]
+    title: "varMax: Towards Confidence-Based Zero-Day Attack Recognition"
+    venue: "IEEE MILCOM"
+    details: "2024, DOI: 10.1109/MILCOM61039.2024.10773707"
+    year: "2024"
+
+  - authors: [Goktug Ekinci, Alexandre Broggi, Lance Fiondella, Nathaniel D. Bastian, "Gokhan Kul*"]
+    title: "Adaptive Network Intrusion Detection Systems Against Performance Degradation via Model Agnostic Meta-Learning"
+    venue: "ACM CCS AACD Workshop"
+    details: "2024, DOI: 10.1145/3689935.3690396"
+    year: "2024"
+
+  - authors: [Tim Fischer, Denis Hirn, "Gokhan Kul*"]
+    title: "(Tutorial) A Reproducible Tutorial on Reproducibility in Database Systems Research"
+    venue: "VLDB"
+    details: "2024, DOI: 10.14778/3685800.3685840"
+    year: "2024"
+
+  - authors: [Priscila Silva, Gaspard Baye, Alexandre Broggi, Nathaniel D. Bastian, "Gokhan Kul*", Lance Fiondella]
+    title: "Predicting F1-Scores of Classifiers in Network Intrusion Detection Systems"
+    venue: "IEEE ICCCN Workshop"
+    details: "2024, DOI: 10.1109/ICCCN61486.2024.10637544"
+    year: "2024"
+
+  - authors: [Gaspard Baye, Priscila Silva, Alexandre Broggi, Lance Fiondella, Nathaniel D. Bastian, "Gokhan Kul*"]
+    title: "Performance Analysis of Deep-Learning Based Open Set Recognition Algorithms for Network Intrusion Detection Systems"
+    venue: "IEEE/IFIP NOMS"
+    details: "2023, DOI: 10.1109/NOMS56928.2023.10154410"
+    year: "2023"
+
+  - authors: [Kevin Montambault, "Gokhan Kul*"]
+    title: "Image Attribute Estimation for Forensic Image Reconstruction from Fragments"
+    venue: "HICSS"
+    details: "2023, Identifier: https://hdl.handle.net/10125/103436"
+    year: "2023"
+
+  - authors: [Chidera Biringa, "Gokhan Kul*"]
+    title: "Static and Microarchitectural ML-Based Approaches For Detecting Spectre Vulnerabilities and Attacks"
+    venue: "HASP"
+    details: "2022, DOI: 10.1145/3569562.3569589"
+    year: "2022"
+
+  - authors: [Julia Sorrentino, Priscila Silva, Gaspard Baye, "Gokhan Kul*", Lance Fiondella]
+    title: "Covariate Software Vulnerability Discovery Model to Support Cybersecurity Test and Evaluation"
+    venue: "IEEE ISSRE"
+    details: "2022, DOI: 10.1109/ISSRE55969.2022.00025"
+    year: "2022"
+
+  - authors: ["Jack D'Agostino", "Gokhan Kul*"]
+    title: "Toward Pinpointing Data Leakage from Advanced Persistent Threats"
+    venue: "IEEE IDS"
+    details: "2021, DOI: 10.1109/BigDataSecurityHPSCIDS52275.2021.00038"
+    year: "2021"
+
+  - authors: [Chidera Biringa, "Gokhan Kul*"]
+    title: "Automated User Experience Testing through Multi-Dimensional Performance Impact Analysis"
+    venue: "IEEE/ACM AST"
+    details: "2021, DOI: 10.1109/AST52587.2021.00024"
+    year: "2021"
+
+  - authors: [Prinkle Sharma, Umesh Siddanagaiah, "Gokhan Kul*"]
+    title: "Towards an AI-Based After-Collision Forensic Analysis Protocol for Autonomous Vehicles"
+    venue: "IEEE SPW Workshop"
+    details: "2020, DOI: 10.1109/SPW50608.2020.00055"
+    year: "2020"
+
+  - authors: [Heather Craddock, Lakshmi Prasanna Konudula, Kun Cheng, "Gokhan Kul*"]
+    title: "The Case for Physical Memory Pools: A Vision Paper"
+    venue: "IEEE CLOUD"
+    details: "2019, DOI: 10.1007/978-3-030-23502-4_15"
+    year: "2019"
+
+  - authors: ["Gokhan Kul*", Shambhu Upadhyaya, Varun Chandola]
+    title: "Detecting Data Leakage from Databases on Android Apps with Concept Drift"
+    venue: "IEEE TrustCom"
+    details: "2018, DOI: 10.1109/TrustCom/BigDataSE.2018.00129"
+    year: "2018"
+
+  - authors: ["Gokhan Kul*", Shambhu Upadhyaya, Andrew Hughes]
+    title: "Complexity of Insider Attacks to Databases"
+    venue: "ACM CCS MIST"
+    details: "2017, DOI: 10.1145/3139923.3139927"
+    year: "2017"
+
+  - authors: [Vishal Sharma, Ilsun You, "Gokhan Kul*"]
+    title: "Socializing Drones for Inter-Service Operability in Ultra-Dense Wireless Networks Using Blockchain"
+    venue: "ACM CCS MIST"
+    details: "2017, DOI: 10.1145/3139923.3139932"
+    year: "2017"
+
+  - authors: ["Gokhan Kul*", Duc Luong, Ting Xie, Patrick Coonan, Varun Chandola, Oliver Kennedy, Shambhu Upadhyaya]
+    title: "Ettu: Analyzing Query Intents in Corporate Databases"
+    venue: "WWW Companion"
+    details: "2016, DOI: 10.1145/2872518.2888608"
+    year: "2016"
+
+  - authors: ["Gokhan Kul*", Shambhu Upadhyaya]
+    title: "A Preliminary Cyber Ontology for Insider Threats in the Financial Sector"
+    venue: "ACM CCS MIST"
+    details: "2015, DOI: 10.1145/2808783.2808793"
+    year: "2015"
+
+  - authors: [Deniz Iren, "Gokhan Kul*", Semih Bilgen]
+    title: "Utilization of Synergetic Human-Machine Clouds: A Big Data Cleaning Case"
+    venue: "ICSE CSI-SE Workshop"
+    details: "2014, DOI: 10.1145/2593728.2593733"
+    year: "2014"
+
+  - authors: [Deniz Iren, "Gokhan Kul*", Semih Bilgen]
+    title: "Insan ve Makine Bulutlari Sinerjisi: Kitle Kaynakli Calisma ile Veri Temizleme Ornek Uygulamasi"
+    venue: "UYMS"
+    details: "2014"
+    year: "2014"# Publications, grouped by type.
+#
+# Schema:
+#   authors:  list of full author names. Mark the PI with "*" suffix to highlight.
+#   title:    paper title
+#   url:      link to publisher / preprint (optional)
+#   venue:    venue name (journal or conference)
+#   details:  vol/issue/pages/location etc.
+#   year:     publication year (string, for sorting)
+
 publications:
 
   journal:
